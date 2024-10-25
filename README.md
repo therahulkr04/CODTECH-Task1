@@ -1,8 +1,10 @@
 # CODTECH-Task1
 
-
-
-
+Name- RAHUL KUMAR SINGH
+Company: CODTECH IT SOLUTIONS
+ID: CT08DS8558
+Domain: CYBER SECURITY & ETHICAL HACKING
+Duration: September 25, 2024 to October 25, 2024
 
 
 Explanation of the Code:
