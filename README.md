@@ -21,3 +21,10 @@ Usage:
 
 1.The user is prompted to enter a password.
 2.The tool evaluates the password based on the defined criteria and outputs whether the password is "Strong," "Moderate," or "Weak."
+
+![image](https://github.com/user-attachments/assets/1f5bb3cf-407d-49ea-9728-4eccc738c4da)
+![image](https://github.com/user-attachments/assets/ec82aaea-6812-4f9a-a18e-07bf61a84662)
+![image](https://github.com/user-attachments/assets/363c02e1-ad18-4d60-80b5-543e9c2854e5)
+
+
+
