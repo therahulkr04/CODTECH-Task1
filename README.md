@@ -6,6 +6,7 @@ ID: CT08DS8558
 Domain: CYBER SECURITY & ETHICAL HACKING
 Duration: September 25, 2024 to October 25, 2024
 
+#Python tool to assess the strength of passwords entered by users.#
 
 Explanation of the Code:
 
